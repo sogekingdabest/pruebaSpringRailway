@@ -51,7 +51,10 @@
 		<dependency>
 			<groupId>javax.persistence</groupId>
 			<artifactId>persistence-api</artifactId>
+<<<<<<< HEAD
 			<version>1.0.0</version>
+=======
+>>>>>>> main
 		</dependency>
 	</dependencies>
 	<build>
